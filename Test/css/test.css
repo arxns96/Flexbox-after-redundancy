@@ -39,7 +39,7 @@ body{
 	margin: 20px;
 	font-family: 'Lato', sans-serif;
   padding-right: 30px;
-  font-weight: lighter;
+  font-weight: 320;
 }
 
 .navbar li a {
@@ -98,10 +98,21 @@ body{
   .cards_container {
 
   	width: 100%;
-  	height: 700px;
+  	height: 550px;
   	background-color: lightgrey;
   	padding-top: 15px;
   }
+
+  @media only screen and (max-width: 1200px) {
+  .cards_container  {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  max-width: 100%;
+
+    
+  }
+}
 
 .cards_container{
   display: flex;
@@ -123,9 +134,7 @@ height: auto;
   display: flex;
   flex-wrap: wrap;
   height: auto;
-  max-width: 100%;
-
-    
+  max-width: 100%; 
   }
 }
 
@@ -135,26 +144,27 @@ height: auto;
   margin-top: 25px;
   max-width: 100%;
   height: auto;
-
-    
   }
 }
 
+.card_bape_button{
 
+  padding-top: 20px;
+}
 
+.card_bape_button .button {
 
+  background-color: #202431;
+  color: #DADADA;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  padding: 10px 32px;
+  box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.1);
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.card_bape_button .button:hover {
+  background-color: #303030;
+}
