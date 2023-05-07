@@ -4,7 +4,7 @@ The purpose of this project is to showcase my skills after 3 years of being out 
 
 After being made redundant, I was too focused on UX/UI Design as I wanted to up-skill my skill set in UI Design. In 2023 I had a job interview and the interviewer asked me about my skills in Web Dev and to be completely honest, I had forgotten my skills and knowledge of flexbox and media queries. 
 
-This project is to showcase my skills in flexbox and media queries as I wanted to keep my skills fresh. 
+This project is to showcase my skills in flexbox and media queries as I wanted to keep my skills fresh, and I think I am impressed as I have not written any code since March 2020. This small project took me a less then 4 hours.
 
 I will be creating more projects soon.
 
