@@ -4,8 +4,8 @@ body{
 
 .hero{
 
-  background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url( https://arxns96.github.io/Flexbox-after-redundancy/Test/img/virgil.png
-);
+  background:linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+url(Flexbox-after-redundancy/Test/img/virgil.png);
   background-size: cover;
   background-position: center; 
   background-color: #F5A281;
